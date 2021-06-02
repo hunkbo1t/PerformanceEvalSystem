@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/PerformanceEvalSystem">
+  <Resource auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" maxActive="-1" maxIdle="-1" maxTotal="180" maxWait="-1" name="jdbc/myoracle" password="system" type="javax.sql.DataSource" url="jdbc:oracle:thin:@localhost:1521:XE" username="system"/>
+</Context>
+
